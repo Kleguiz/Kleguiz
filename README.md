@@ -65,16 +65,12 @@ If you are looking for a passionate and dedicated developer, willing to bring fr
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
 
 
-</td><td valign="top" width="50%">
 
 
 
-</td></tr></table>  
 
 <br/>  
 
