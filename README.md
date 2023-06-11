@@ -22,8 +22,6 @@ If you are looking for a passionate and dedicated developer, willing to bring fr
 
 <br/>  
 
-
-## Rapidfire 
   
 - 🌱 I’m currently learning TypeScript and Tailwind 
   
