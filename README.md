@@ -23,9 +23,7 @@ If you are looking for a passionate and dedicated developer, willing to bring fr
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
+## Rapidfire 
   
 - 🌱 I’m currently learning TypeScript and Tailwind 
   
