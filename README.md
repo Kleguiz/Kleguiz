@@ -66,24 +66,3 @@ If you are looking for a passionate and dedicated developer, willing to bring fr
 
 
 
-
-
-
-
-
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
