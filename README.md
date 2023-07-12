@@ -1,7 +1,9 @@
 ## Hey 👋, I'm Kevin!  
-[![Google](https://img.shields.io/badge/Google-%23EA4335.svg?&style=for-the-badge&logo=google&logoColor=white)](https://mail.google.com/mail/kd.leguizamon@gmail.com)
+[![Google](https://img.shields.io/badge/Google-%23EA4335.svg?&style=for-the-badge&logo=google&logoColor=white)](https://mail.google.com/mail/)
 
-
+<a href="https://gmail.com/kd.leguizamon@gmail.com" target="_blank">
+<img src=[https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Google-%23EA4335.svg?&style=for-the-badge&logo=google&logoColor=white) alt=gmail style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/Kleguiz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
