@@ -1,4 +1,6 @@
 ## Hey 👋, I'm Kevin!  
+[![Google](https://img.shields.io/badge/Google-%23EA4335.svg?&style=for-the-badge&logo=google&logoColor=white)](URL_DE_TU_PERFIL)
+
 
 <a href="https://github.com/Kleguiz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
