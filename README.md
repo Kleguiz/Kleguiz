@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Kevin!  
-[![Google](https://img.shields.io/badge/Google-%23EA4335.svg?&style=for-the-badge&logo=google&logoColor=white)](kd.leguizamon@gmail.com)
+[![Google](https://img.shields.io/badge/Google-%23EA4335.svg?&style=for-the-badge&logo=google&logoColor=white)](https://mail.google.com/mail/kd.leguizamon@gmail.com)
 
 
 <a href="https://github.com/Kleguiz" target="_blank">
